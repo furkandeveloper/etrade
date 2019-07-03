@@ -1,4 +1,4 @@
-# Fluttur Project
+# Flutter Project
 
 Bu uygulama sayesinde;
 
